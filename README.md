@@ -1,5 +1,6 @@
-## Polling Application Django
-It has been made just to show the bare bones of a working Django project.
+## Budget Application Django
+Budget Application for some project with all the backend part implemented in Django
+and front-end uses Materialize CSS and JS.
 
 # How to get started?
 
